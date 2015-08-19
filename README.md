@@ -11,3 +11,9 @@ This is the primary branch - code that's in here should be stable.
 
 *payroll*
 This is for the Australian payroll rules. This code is not stable and is incomplete.
+
+
+#Installation
+
+see http://www.freeofficesolutions.com/ausrtalian-localisation-of-odoo/
+
